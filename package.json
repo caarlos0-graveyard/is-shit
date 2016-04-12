@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "is this shit?",
   "main": "index.js",
+  "bin": {
+    "is-shit": "./index.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 0"
   },
