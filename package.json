@@ -1,6 +1,6 @@
 {
   "name": "is-shit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "is this shit?",
   "main": "index.js",
   "bin": {
