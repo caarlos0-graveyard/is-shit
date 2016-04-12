@@ -1,0 +1,11 @@
+{
+  "name": "is-shit",
+  "version": "1.0.0",
+  "description": "is this shit?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "author": "Carlos Alexadnro Becker <caarlos0@gmail.com>",
+  "license": "MIT"
+}
