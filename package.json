@@ -7,8 +7,12 @@
     "is-shit": "index.js"
   },
   "scripts": {
-    "test": "echo \"I don't care\""
+    "pretest": "npm install",
+    "test": "jest"
   },
   "author": "Carlos Alexandro Becker <caarlos0@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "jest-cli": "^12.1.1"
+  }
 }

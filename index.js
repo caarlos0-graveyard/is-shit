@@ -1,6 +1,8 @@
 #!/usr/bin/env node
 'use strict';
 
+module.exports = isShit;
+
 function isShit(anyShit) {
   return true;
 }
